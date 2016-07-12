@@ -8,5 +8,5 @@ void main(){
 	cout << "hello world " <<endl;
 	cout << "test clone" << endl;
 	cout << a + b << endl;
-	
+	return ;
 }
